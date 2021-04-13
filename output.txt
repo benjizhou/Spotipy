@@ -1,0 +1,324 @@
+Time                          Song // Artist
+2020-06-22 21:28:38.769787    Castle on the Hill // Ed Sheeran
+2020-06-22 21:28:47.949539    Castle on the Hill // Ed Sheeran
+2020-06-23 00:04:29.476552    I'm Yours // Jason Mraz
+2020-06-23 00:07:52.184343    I'm Yours // Jason Mraz
+2020-06-23 00:43:52.230140    Come On Get Higher // Matt Nathanson
+2020-06-23 00:43:59.816736    Come On Get Higher // Matt Nathanson
+2020-06-23 00:44:27.011769    Come On Get Higher // Matt Nathanson
+2020-06-23 22:07:20.473190    Introducing Me // Nick Jonas
+2020-06-23 22:07:31.190002    Introducing Me // Nick Jonas
+2020-06-23 22:08:39.916043    Introducing Me // Nick Jonas
+2020-06-23 22:08:51.043660    Introducing Me // Nick Jonas
+2020-06-23 22:16:25.427955    Honey // Kehlani
+2020-06-23 22:16:34.780856    Honey // Kehlani
+2020-06-23 22:17:13.553446    my way // mxmtoon
+2020-06-23 23:16:31.683987    Some // Bolbbalgan4
+2020-06-23 23:17:55.585346    Lucky // Jason Mraz
+2020-06-23 23:28:46.639380    Hey, Soul Sister // Train
+2020-06-23 23:29:29.582663    Best Thing I Got // Sabrina Carpenter
+2020-06-23 23:32:19.493079    Gentleman (Radio Edit) // Will Jay
+2020-06-23 23:33:09.764357    Electric Love // BRNS
+2020-06-23 23:34:27.217259    Be Kind (with Halsey) // Marshmello
+2020-06-23 23:36:17.801087    Flare Guns // Quinn XCII
+2020-06-24 00:02:13.558676    Better Days // OneRepublic
+2020-06-24 00:05:17.546326    Take on the World // You Me At Six
+2020-06-24 00:08:15.641573    Didn't I // OneRepublic
+2020-06-24 00:08:51.459669    Love Is Gone - Acoustic // SLANDER
+2020-06-24 00:14:50.922038    I Want You Anyway // Jon McLaughlin
+2020-06-24 00:15:59.537536    Wish I Never Met You // Loote
+2020-06-24 00:16:02.727089    First Time (feat. Dylan Matthew) - Acoustic // Seven Lions
+2020-06-24 00:16:07.022832    Oceans Between Us // The Icarus Account
+2020-06-24 00:16:11.337510    If the World Was Ending - feat. Julia Michaels // JP Saxe
+2020-06-24 00:16:13.466176    Let's Fall in Love for the Night // FINNEAS
+2020-06-24 00:16:16.656430    Rescue Me // OneRepublic
+2020-06-24 00:16:17.729602    Nights Like These // Will Jay
+2020-06-24 00:16:19.865362    Make You Mine // PUBLIC
+2020-06-24 00:18:04.527028    Dandelions // Ruth B.
+2020-06-24 00:18:08.785662    I.F.L.Y. // Bazzi
+2020-06-24 00:18:09.852256    Dandelions // Ruth B.
+2020-06-24 00:22:02.948405    I.F.L.Y. // Bazzi
+2020-06-24 00:29:34.501787    Say Something // A Great Big World
+2020-06-24 00:29:40.886979    Rolling in the Deep // Adele
+2020-06-24 00:29:47.265202    Not Over You // Gavin DeGraw
+2020-06-24 00:29:48.332386    XO // John Mayer
+2020-06-24 00:29:50.446402    Stay // Rihanna
+2020-06-24 13:10:13.493967    Glory (From the Motion Picture Selma) // Common
+2020-06-24 13:15:05.075244    Don't // Ed Sheeran
+2020-06-24 13:15:20.095677    Slide // The Goo Goo Dolls
+2020-06-24 13:15:23.279359    Life Of The Party // Shawn Mendes
+2020-06-24 13:15:27.516301    Best Day Of My Life // American Authors
+2020-06-24 13:15:29.631251    human // Christina Perri
+2020-06-24 13:19:38.926441    Drift Away // Uncle Kracker
+2020-06-24 13:20:21.554028    Take Me to Church // Hozier
+2020-06-24 13:20:23.709998    Mine // Taylor Swift
+2020-06-24 13:20:24.766774    Marvin Gaye (feat. Meghan Trainor) // Charlie Puth
+2020-06-24 13:20:25.843892    Somebody That I Used To Know // Gotye
+2020-06-24 13:20:27.976788    Next To Me // Emeli Sand
+2020-08-05 21:59:56.156447    Christ Is Mine Forevermore // CityAlight
+2020-08-05 22:00:06.873134    Come Ye Souls by Sin Afflicted (Look to Jesus) [feat. Emily DeLoach] // Indelible Grace Music
+2020-08-05 22:00:09.012809    Ashes - from "Deadpool 2" Motion Picture Soundtrack // Cline Dion
+2020-08-12 14:48:45.056013    Deep End // Lecrae
+2020-08-12 14:50:29.818528    Ungrateful Eyes // Jon Bellion
+2020-08-12 14:52:27.602362    Jail Time // Zambonini
+2020-08-12 14:52:30.810181    The Cave // Formal Chicken
+2020-08-12 14:52:31.870890    Human - Acoustic // Jon Bellion
+2020-08-12 14:52:34.014156    Dandelions // Ruth B.
+2020-08-12 14:52:35.088282    Start Over (feat. NF) // Flame
+2020-08-12 14:52:36.146300    Please Don't Say You Love Me // Alessia Mamino
+2020-08-12 14:52:37.218080    Jon Bellion's One Way To San Diego // QuESt
+2020-08-12 14:52:38.279241    Belong To You // Iron Bell Music
+2020-08-12 14:52:39.357079    Happier - Stripped // Marshmello
+2020-08-12 14:52:40.428729    Dreams // Phil Beaudreau
+2020-08-12 14:52:41.509543    Beautiful Life (From the Motion Picture Abominable) // Bebe Rexha
+2020-08-12 14:52:42.575907    Feel Something // Landon Austin
+2020-08-12 14:52:43.650029    Trauma // NF
+2020-08-12 14:52:44.717709    Amerika // Young the Giant
+2020-08-12 14:52:45.787918    Passenger // Noah Kahan
+2020-08-12 14:52:46.857517    False Confidence // Noah Kahan
+2020-08-12 14:52:47.940649    Sweetest Life // KWAYE
+2020-08-12 14:52:49.007128    Lemon // Kenshi Yonezu
+2020-08-12 14:52:50.082351    big fat mouth // Arlie
+2020-08-12 14:52:52.196673    Departure // Stephycube
+2020-08-12 14:53:05.092022    Everything Stays // Adventure Time
+2020-08-12 15:37:52.363366    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:53.437043    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:54.501684    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:55.661174    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:56.735051    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:57.814511    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:58.885146    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:37:59.958885    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:01.031937    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:02.093037    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:03.182648    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:04.246403    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:05.331458    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:06.409170    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:07.468407    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:08.531021    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:09.605806    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:10.668216    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:11.739068    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:12.812747    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:13.888557    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:14.958755    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:16.027267    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:17.092006    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:18.151100    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:19.220469    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:20.297027    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:21.387801    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:22.460332    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:23.535416    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:24.592248    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:25.655907    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:26.718623    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:27.786923    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:28.851942    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:29.920363    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:30.985036    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:32.059139    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:33.125759    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:34.187323    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:35.243328    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:36.390309    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:37.450110    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:38.591270    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:39.660214    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:40.724580    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:41.783254    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:42.845243    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:43.906156    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:44.988904    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:46.061854    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:47.163363    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:48.229041    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:49.295699    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:50.381524    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:51.451308    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:52.540059    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:53.643798    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:54.703709    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:55.788065    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:56.847602    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:57.917999    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:38:59.009181    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:00.235191    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:02.826357    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:04.235813    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:05.294251    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:06.489863    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:07.640981    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:08.700129    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:09.783915    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:10.846427    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:11.920819    b'\xe5\xad\xb8\xe8\xb2\x93\xe5\x8f\xab // \xe5\xb0\x8f\xe6\xbd\x98\xe6\xbd\x98'
+2020-08-12 15:39:12.996970    b'changes // XXXTENTACION'
+2020-08-12 15:39:14.484373    b'changes // XXXTENTACION'
+2020-08-12 15:39:15.565862    b'changes // XXXTENTACION'
+2020-08-12 15:39:16.631327    b'changes // XXXTENTACION'
+2020-08-12 15:39:17.722761    b'changes // XXXTENTACION'
+2020-08-12 15:39:18.779638    b'changes // XXXTENTACION'
+2020-08-12 15:39:19.838913    b'changes // XXXTENTACION'
+2020-08-12 15:39:20.898742    b'changes // XXXTENTACION'
+2020-08-12 15:39:21.962095    b'changes // XXXTENTACION'
+2020-08-12 15:39:23.035754    b'changes // XXXTENTACION'
+2020-08-12 15:39:24.104763    b'changes // XXXTENTACION'
+2020-08-12 15:39:25.161999    b'changes // XXXTENTACION'
+2020-08-12 15:39:26.230678    b'changes // XXXTENTACION'
+2020-08-12 15:39:27.300763    b'changes // XXXTENTACION'
+2020-08-12 15:39:28.370431    b'changes // XXXTENTACION'
+2020-08-12 15:39:29.441408    b'changes // XXXTENTACION'
+2020-08-12 15:39:30.507329    b'changes // XXXTENTACION'
+2020-08-12 15:39:31.574525    b'changes // XXXTENTACION'
+2020-08-12 15:39:32.651779    b'changes // XXXTENTACION'
+2020-08-12 15:39:33.718945    b'changes // XXXTENTACION'
+2020-08-12 15:39:34.782352    b'changes // XXXTENTACION'
+2020-08-12 15:39:35.839808    b'changes // XXXTENTACION'
+2020-08-12 15:39:36.908515    b'changes // XXXTENTACION'
+2020-08-12 15:39:37.974593    b'changes // XXXTENTACION'
+2020-08-12 15:39:39.041572    b'changes // XXXTENTACION'
+2020-08-12 15:39:40.123939    b'changes // XXXTENTACION'
+2020-08-12 15:39:41.174093    b'changes // XXXTENTACION'
+2020-08-12 15:39:42.230568    b'changes // XXXTENTACION'
+2020-08-12 15:39:43.292070    b'changes // XXXTENTACION'
+2020-08-12 15:39:44.369935    b'changes // XXXTENTACION'
+2020-08-12 15:39:45.428058    b'changes // XXXTENTACION'
+2020-08-12 15:39:46.486769    b'changes // XXXTENTACION'
+2020-08-12 15:39:47.556446    b'changes // XXXTENTACION'
+2020-08-12 15:39:48.621513    b'changes // XXXTENTACION'
+2020-08-12 15:39:49.680688    b'changes // XXXTENTACION'
+2020-08-12 15:39:50.760663    b'changes // XXXTENTACION'
+2020-08-12 15:39:51.819393    b'changes // XXXTENTACION'
+2020-08-12 15:39:52.880714    b'changes // XXXTENTACION'
+2020-08-12 15:39:53.953687    b'changes // XXXTENTACION'
+2020-08-12 15:39:55.019255    b'changes // XXXTENTACION'
+2020-08-12 15:39:56.084155    b'changes // XXXTENTACION'
+2020-08-12 15:39:57.184801    b'changes // XXXTENTACION'
+2020-08-12 15:39:58.253888    b'changes // XXXTENTACION'
+2020-08-12 15:39:59.324210    b'changes // XXXTENTACION'
+2020-08-12 15:40:00.394740    b'changes // XXXTENTACION'
+2020-08-12 15:40:01.470301    b'changes // XXXTENTACION'
+2020-08-12 15:40:02.570735    b'changes // XXXTENTACION'
+2020-08-12 15:40:03.636508    b'changes // XXXTENTACION'
+2020-08-12 15:40:04.698301    b'changes // XXXTENTACION'
+2020-08-12 15:40:05.753712    b'changes // XXXTENTACION'
+2020-08-12 15:40:06.813508    b'changes // XXXTENTACION'
+2020-08-12 15:40:07.880573    b'changes // XXXTENTACION'
+2020-08-12 15:40:08.946104    b'changes // XXXTENTACION'
+2020-08-12 15:40:10.027690    b'Moonlight // XXXTENTACION'
+2020-08-12 15:40:11.095383    b'Moonlight // XXXTENTACION'
+2020-08-12 15:40:12.169570    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:13.229970    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:14.291962    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:15.355406    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:16.424761    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:17.497498    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:18.559299    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:19.632826    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:20.719821    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:21.786046    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:23.327285    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:24.405766    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:25.511485    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:26.572419    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:27.642735    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:28.712838    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:29.789779    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:30.858532    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:31.945682    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:33.030864    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:34.092476    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:35.167530    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:36.235040    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:37.310335    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:38.372592    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:39.430115    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:40.498569    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:41.571830    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:42.633684    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:43.703606    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:44.779660    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:45.850135    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:46.921842    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:47.980372    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:49.055141    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:50.118461    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:51.178026    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:52.241346    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:53.324540    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:54.383489    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:55.444368    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:56.513208    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:57.596227    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:58.669716    b'SAD! // XXXTENTACION'
+2020-08-12 15:40:59.787699    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:00.845392    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:01.899813    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:02.992197    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:04.059904    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:05.126295    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:06.209575    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:07.282757    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:08.358751    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:09.430007    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:10.489863    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:11.562885    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:12.640908    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:13.708563    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:14.771127    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:15.836877    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:16.905772    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:17.997962    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:19.067795    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:20.141489    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:21.210315    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:22.275662    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:23.345986    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:24.411374    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:25.476309    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:26.547650    b'SAD! // XXXTENTACION'
+2020-08-12 15:41:35.759554    SAD! // XXXTENTACION
+2020-08-12 15:41:40.055579    Murder Song (5, 4, 3, 2, 1) - Acoustic // AURORA
+2020-08-12 15:41:43.263316    Conversations with my Wife // Jon Bellion
+2020-08-12 15:45:09.079023    JT // Jon Bellion
+2020-08-12 15:46:48.825497    Let's Begin (feat. Roc Marciano, RZA, B.Keyz & Travis Mendes) // Jon Bellion
+2020-08-12 15:46:50.996014    Stupid Deep // Jon Bellion
+2020-08-12 15:46:54.206012    Mah's Joint (feat. Quincy Jones) // Jon Bellion
+2020-08-12 15:52:15.750494    Vanilla Twilight // Owl City
+2020-08-12 15:56:06.264197    Beautiful // Said the Sky
+2020-08-12 15:56:09.475704    November Rain // Kris Wu
+2020-08-12 15:56:11.612842    Vanilla Twilight // Owl City
+2020-08-12 16:06:58.119097    Beautiful // Said the Sky
+2020-08-12 16:09:41.565629    November Rain // Kris Wu
+2020-08-12 16:37:27.321626    Come Ye Souls by Sin Afflicted (Look to Jesus) [feat. Emily DeLoach] // Indelible Grace Music
+2020-08-12 16:43:00.098094    Vanilla Twilight // Owl City
+b"2020-08-12 16:51:50.588623    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:51.669010    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:52.782217    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:53.843277    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:55.033220    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:56.089921    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:57.153895    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:58.223439    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:51:59.286739    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b"2020-08-12 16:52:00.356098    Mah's Joint (feat. Quincy Jones) // Jon Bellion"
+b'2020-08-12 16:52:01.422189    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:02.544607    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:03.601930    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:04.670062    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:05.727575    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:06.790267    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:07.854407    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:08.912485    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:09.968740    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:11.033304    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:12.101568    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:13.163026    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:14.222836    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:15.285880    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+b'2020-08-12 16:52:16.349958    \xe7\xaa\x81\xe7\x84\xb6\xe5\xa5\xbd\xe6\x83\xb3\xe4\xbd\xa0 // Mayday'
+2020-08-12 19:50:57.614778    Fight For Me // GAWVI
+2020-08-12 19:53:49.087086    Turn Back Time // Daniel Schulz
+2020-08-12 19:57:33.173364    Stop The Rain // DAY6
